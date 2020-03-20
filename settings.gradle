@@ -1,0 +1,3 @@
+rootProject.name='longpicload'
+include ':sample'
+include ':longpic'
